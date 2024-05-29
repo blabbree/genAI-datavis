@@ -877,6 +877,7 @@ create_density_ridge_plot(penguins_cleaned, "bill_length_mm")
 
 create_density_ridge_plot(penguins_cleaned, "flipper_length_mm")
 
+create_density_ridge_plot(penguins_cleaned, "bill_depth_mm")
 
 ## one last bonus example
 
